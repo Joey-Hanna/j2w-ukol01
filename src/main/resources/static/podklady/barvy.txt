@@ -1,0 +1,5 @@
+#332a2d - barva nadpisů h1, h2, barva pozadí menu
+#8cbeb2 - barva pozadí sekce "O mně"
+#f2ebbf - barva pozadí sekce "Fotogalerie"
+#f9cb8f - barva pozadí sekce "Kontakt"
+#f06060 - barva pozadí v patičce
